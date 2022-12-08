@@ -1,5 +1,7 @@
 red
 green
 blue
+uday
+teja
 white
 black
